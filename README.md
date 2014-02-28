@@ -21,6 +21,8 @@ The default LED is in an "off" state, so add some color:
 <div class="led led-blue"></div>
 ```
 
+The size is scalable by setting the font-size property on the led class.
+
 # Demo
 
 http://jsfiddle.net/XrHcA/

@@ -1,33 +1,34 @@
 .led {
-    margin: 20px auto;
-    width: 10px;
-    height: 10px;
+    font-size: 1%; 
+    margin: 20em auto;
+    width: 10em;
+    height: 10em;
     border-radius: 50%;
     background-color: rgba(255, 255, 255, 0.25);
-    box-shadow: #000 0 -1px 6px 1px;
+    box-shadow: #000 0 -10em 6em 1em;
 }
 
 .led-red {
     background-color: #F00;
-    box-shadow: #000 0 -1px 6px 1px, inset #600 0 -1px 8px, #F00 0 3px 11px;
+    box-shadow: #000 0 -1em 6em 1em, inset #600 0 -1em 8em, #F00 0 3em 11em;
 }
 
 .led-orange {
     background-color: #FF7000;
-    box-shadow: #000 0 -1px 6px 1px, inset #630 0 -1px 8px, #FF7000 0 3px 11px;
+    box-shadow: #000 0 -1em 6em 1em, inset #630 0 -1em 8em, #FF7000 0 3em 11em;
 }
 
 .led-yellow {
     background-color: #FF0;
-    box-shadow: #000 0 -1px 6px 1px, inset #660 0 -1px 8px, #FF0 0 3px 11px;
+    box-shadow: #000 0 -1em 6em 1em, inset #660 0 -1em 8em, #FF0 0 3em 11em;
 }
 
 .led-green {
     background-color: #80FF00;
-    box-shadow: #000 0 -1px 6px 1px, inset #460 0 -1px 8px, #80FF00 0 3px 11px;
+    box-shadow: #000 0 -1em 6em 1em, inset #460 0 -1em 8em, #80FF00 0 3em 11em;
 }
 
 .led-blue {
     background-color: #06F;
-    box-shadow: #000 0 -1px 6px 1px, inset #006 0 -1px 8px, #06F 0 3px 11px;
+    box-shadow: #000 0 -1em 6em 1em, inset #006 0 -1em 8em, #06F 0 3em 11em;
 }
